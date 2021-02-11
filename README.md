@@ -1,6 +1,4 @@
-# Проектная работа студентки Яндекс.Практикума
-
-## [Научиться учиться](https://Kventista.github.io/Learn_to_Learn/)
+# [Научиться учиться](https://Kventista.github.io/Learn_to_Learn/)
 
 ***
 ### В проекте применены технологии:
